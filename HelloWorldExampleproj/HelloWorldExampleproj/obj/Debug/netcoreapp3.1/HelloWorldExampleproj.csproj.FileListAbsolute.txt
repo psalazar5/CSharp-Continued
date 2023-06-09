@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\bin\Debug\netcoreapp3.1\HelloWorldExampleproj.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\HelloWorldExampleproj\HelloWorldExampleproj\obj\Debug\netcoreapp3.1\HelloWorldExampleproj.genruntimeconfig.cache
