@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\bin\Debug\netcoreapp3.1\InterviewCoding.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\InterviewCoding\InterviewCoding\obj\Debug\netcoreapp3.1\InterviewCoding.genruntimeconfig.cache
