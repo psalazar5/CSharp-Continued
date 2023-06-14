@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\bin\Debug\netcoreapp3.1\Interview2exercise.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Interview2exercise\Interview2exercise\obj\Debug\netcoreapp3.1\Interview2exercise.genruntimeconfig.cache
