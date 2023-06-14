@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\bin\Debug\netcoreapp3.1\FizzBuzzChallenege.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FizzBuzzChallenege\FizzBuzzChallenege\obj\Debug\netcoreapp3.1\FizzBuzzChallenege.genruntimeconfig.cache
