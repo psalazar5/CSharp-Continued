@@ -1,0 +1,13 @@
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.exe
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.deps.json
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.runtimeconfig.json
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.runtimeconfig.dev.json
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.dll
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\bin\Debug\netcoreapp3.1\FizzBuzzContinued.pdb
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.csproj.AssemblyReference.cache
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.AssemblyInfoInputs.cache
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.AssemblyInfo.cs
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.csproj.CoreCompileInputs.cache
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.dll
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.pdb
+C:\Users\psala\source\repos\FizzBuzzContinued\FizzBuzzContinued\obj\Debug\netcoreapp3.1\FizzBuzzContinued.genruntimeconfig.cache
