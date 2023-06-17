@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\bin\Debug\netcoreapp3.1\Csharp-GettingStarted.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Csharp-GettingStarted\Csharp-GettingStarted\obj\Debug\netcoreapp3.1\Csharp-GettingStarted.genruntimeconfig.cache
