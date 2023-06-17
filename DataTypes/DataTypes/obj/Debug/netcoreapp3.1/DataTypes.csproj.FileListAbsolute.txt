@@ -1,0 +1,13 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\bin\Debug\netcoreapp3.1\DataTypes.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\DataTypes\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.genruntimeconfig.cache
