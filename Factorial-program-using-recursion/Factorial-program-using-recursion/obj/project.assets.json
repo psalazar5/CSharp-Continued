@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\DataTypes\\DataTypes\\DataTypes.csproj",
-      "projectName": "DataTypes",
-      "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\DataTypes\\DataTypes\\DataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj",
+      "projectName": "Factorial-program-using-recursion",
+      "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj",
       "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\DataTypes\\DataTypes\\obj\\",
+      "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

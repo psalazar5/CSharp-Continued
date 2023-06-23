@@ -1,0 +1,14 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\bin\Debug\netcoreapp3.1\Factorial-program-using-recursion.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Factorial-program-using-recursion\Factorial-program-using-recursion\obj\Debug\netcoreapp3.1\Factorial-program-using-recursion.genruntimeconfig.cache

@@ -30,7 +30,7 @@ namespace FizzBuzzChallenege
                     Console.WriteLine(i);
                 }
 
-            }
+            } 
 
 
 

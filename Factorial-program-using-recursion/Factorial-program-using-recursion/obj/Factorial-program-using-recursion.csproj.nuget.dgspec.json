@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\FizzBuzzContinued.csproj": {}
+    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\FizzBuzzContinued.csproj": {
+    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\FizzBuzzContinued.csproj",
-        "projectName": "FizzBuzzContinued",
-        "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\FizzBuzzContinued.csproj",
+        "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj",
+        "projectName": "Factorial-program-using-recursion",
+        "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\Factorial-program-using-recursion.csproj",
         "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\obj\\",
+        "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Factorial-program-using-recursion\\Factorial-program-using-recursion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PejyDOQhDtRUg2ndnFexuO+uc0+Cj3/sAij51vhcCYL3VbKAMbzCozedBtQCzmNIm4nqPI00Pjwsx1CCYT1xeQ==",
+  "dgSpecHash": "WErkMCU+XVtP7y/LqkwPnpNtqs/DHP5W08HD7na1XQWlX692nNnCSpKeDexSgRrKi6KZQHL470hm1xifSGExqQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzContinued\\FizzBuzzContinued\\FizzBuzzContinued.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

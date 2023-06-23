@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Qw+trW8jrzvjpXYDpdQcdml/7dQpRCF8fEMuHP6D3wGZiVLEqS54Uja3zeZ3MwWUxqm98PbWp/opxnIVqarkfQ==",
+  "dgSpecHash": "viDFvj6U7IZv/vdmsQwzPgsADReuMjDpQf8u3xWO/DRdivs/3t3N3ND0BxLRDwUH/Dp7rKCBMqxj6BSEX82wXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
