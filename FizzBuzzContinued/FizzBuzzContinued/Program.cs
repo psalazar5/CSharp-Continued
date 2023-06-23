@@ -133,23 +133,73 @@ namespace FizzBuzzContinued
             //    }
             //}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             Console.ReadLine();
+
+
+            //PRACTICE// 
+
+            //int[] array = new int[100];
+
+            //for (int w = 1; w <= 100; w++)
+            //{
+            //    array[w - 1] = w;
+            //}
+            //Console.WriteLine("Array populated ");
+
+            //int[] array1 = new int[100];
+            //for (int e = 1; e <= 100; e++)
+            //{
+            //    array1[e - 1] = e;
+            //}
+
+            //int[] array2 = new int[100];
+            //for (int q = 0; q <= 100; q++)
+            //{
+            //    array[q - 1] = q;
+            //}
+
+            //Console.WriteLine("array pop");
+
+
+
+            //int[] array3 = new int[100];
+            //for (int p = 1; p <= array3.Length; p++)
+            //{
+            //    array[p - 1] = p;
+            //}
+
+
+            //int[] array4 = new int[100];
+            //for (int d = 1; d <= 100; d++)
+            //{
+            //    array[d - 1] = d;
+            //}
+
+            //int[] array5 = new int[100];
+            //for (int u = 0; u <= 100; u++)
+            //{
+            //    array[u - 1] = u;
+            //}
+            //for (int y = 0; y <= array.Length; y++)
+            //{
+            //    if (array[y] % 3 == 0 && array[y] % 5 == 0)
+            //    {
+            //        Console.WriteLine("fizzbuzz");
+            //    }
+            //    else if (array[y] % 3 == 0)
+            //    {
+            //        Console.WriteLine("fizz");
+            //    }
+            //    else if (array[y] % 5 == 0)
+            //    {
+            //        Console.WriteLine("buzz");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(array[y]);
+            //    }
+            
+
         }           
     }
 }
