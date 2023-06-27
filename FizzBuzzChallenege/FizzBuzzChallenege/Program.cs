@@ -31,10 +31,6 @@ namespace FizzBuzzChallenege
                 }
 
             } 
-
-
-
-
             Console.ReadLine();
         }
     }

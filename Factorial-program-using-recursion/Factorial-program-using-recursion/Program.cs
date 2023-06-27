@@ -26,13 +26,34 @@ namespace Factorial_program_using_recursion
                 Console.WriteLine("{0}! is {1}", i, fact);
             }
 
-            Console.ReadLine();
+        
+
+            Console.WriteLine("enter value");
+            int valueInput = Int32.Parse(Console.ReadLine());
+            for(int s= 1; s < valueInput; s++)
+            {
+                int fact3 = 1;
+                for(int w = 1; s < w; w++)
+                {
+                    fact3 = fact3 * w; 
+                }
+            }
 
 
+            Console.WriteLine("Please enter a value");
+            int valueInput1 = Int32.Parse(Console.ReadLine());
 
+            for(int i = 1; i < valueInput; i++)
+            {
+                int fact2 = 1; 
+                for(int f = 0; f < i; f++)
+                {
+                    fact2 = fact2 * f;
+                } 
+                Console.WriteLine("{0}! is {1}", i, fact2);
+            }
 
-
-            
+                Console.ReadLine();
 
             //PRACTICE -------------------------------------------//
             //Console.WriteLine("input a value ");
