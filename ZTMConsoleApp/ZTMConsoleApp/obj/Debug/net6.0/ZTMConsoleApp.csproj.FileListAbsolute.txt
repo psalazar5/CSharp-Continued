@@ -1,0 +1,15 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\bin\Debug\net6.0\ZTMConsoleApp.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\bin\Debug\net6.0\ZTMConsoleApp.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\bin\Debug\net6.0\ZTMConsoleApp.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\bin\Debug\net6.0\ZTMConsoleApp.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\bin\Debug\net6.0\ZTMConsoleApp.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\refint\ZTMConsoleApp.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ZTMConsoleApp.genruntimeconfig.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\ZTMConsoleApp\ZTMConsoleApp\obj\Debug\net6.0\ref\ZTMConsoleApp.dll

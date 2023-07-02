@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZTMConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Pablo"
+    }
+  }
+}
