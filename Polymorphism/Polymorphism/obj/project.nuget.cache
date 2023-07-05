@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8Utm7QGVYxNSTTbkm5kQy9qntYHt58Lb1OYjVbqAqdUyLfeV4oi14ast0LBfyWS20elSv5Wc1psmP4+amMPmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Polymorphism\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
