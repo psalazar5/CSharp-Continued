@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W03GsLgrdcuY6ALtPjdtIreP09TzamXlolZKdrI+XzQc/IimbmLlvnq6A+WHF5uoE/IwQcsocN98eGlJPnZHEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Interfaces\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
