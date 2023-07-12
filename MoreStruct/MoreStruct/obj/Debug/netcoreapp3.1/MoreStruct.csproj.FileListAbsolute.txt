@@ -1,0 +1,14 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.runtimeconfig.dev.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\bin\Debug\netcoreapp3.1\MoreStruct.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\MoreStruct\MoreStruct\obj\Debug\netcoreapp3.1\MoreStruct.genruntimeconfig.cache
