@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u+6Y843so4AjtuafMZISPOt3z5kW62ryWkEm7qDxuLs+jqfwHnLHWrCXeDBY5cqnzB6D9XT7d2RTVYe+7V9D9Q==",
+  "dgSpecHash": "w2xuu3waIY4xn/oRwPa6hm7ZOPcUVZB8EQNsABM1H3t2rjzUQXWq65AkTP0YUOGY9BhTng3ln/wEWO8idshM9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Exercise4\\Exercise4\\Exercise4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,7 +6,7 @@ namespace Exercise3
     {
         static void Main(string[] args)
         { //Given a string, reverse it 
-            string input = "Hello World";
+            string input = "urmom";
             string reversed = ReverseString(input); //The name ReverseString doesnt exist in the current context, so I implimented GenerateMethod.ReverseString.
             Console.WriteLine(reversed); //In this example, the ReverseString method takes a string input as a parameter.
             Console.ReadLine();

@@ -26,7 +26,7 @@ namespace Exercise4
                     result.Append(c);
                 }
             }
-
+                
             return result.ToString();
         }
     }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RC8mSpp4/87GfM+iv341h8LLd7lhTxjqTeG7I4WP6o+7Ghkzn9fhUzNOYF3QZnRUvmQImcXW0wiOreqWWUJtdw==",
+  "dgSpecHash": "PWY+I15gKTYCOEVE0Ny/g2ILYIaeN4PpGeGNOyh6FUTFbqAN8eENXkb42ucq4P6ids07K42dKG/SgQRBEykCCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Csharp-GettingStarted\\Csharp-GettingStarted\\Csharp-GettingStarted.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

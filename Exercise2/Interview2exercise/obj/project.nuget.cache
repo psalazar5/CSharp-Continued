@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QdIj6XJxUSQl1YmUYDmEJJFOcaYMcV4tJnKQ5WCjfk33YbUtW88v10nvkvTpKsop8WdghNUO8zhc9pHfYSPe9A==",
+  "dgSpecHash": "rcAOZeaf3JQXOt72RUAeV0WnTnGcGhn8AufwauB+VBrSjQ3NKqMbpL1Mas4s4NTdI+5Q6dBSSSqWMkxLL1jnLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Interview2exercise\\Interview2exercise\\Interview2exercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\Exercise2\\Interview2exercise\\Interview2exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

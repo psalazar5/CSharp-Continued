@@ -11,3 +11,4 @@ C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Exercise4\Exercise4
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.dll
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.pdb
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.genruntimeconfig.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Exercise4\Exercise4\obj\Debug\netcoreapp3.1\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
