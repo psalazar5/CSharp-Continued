@@ -1,0 +1,15 @@
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.exe
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.deps.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.runtimeconfig.json
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\bin\Debug\net6.0\Enumerations.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfoInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfo.cs
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\refint\Enumerations.dll
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.pdb
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\Enumerations.genruntimeconfig.cache
+C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\Enumerations\Enumerations\obj\Debug\net6.0\ref\Enumerations.dll
