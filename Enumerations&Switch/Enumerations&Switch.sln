@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerations&Switch", "Enumerations&Switch\Enumerations&Switch.csproj", "{8AAEFF06-67DE-4E39-824F-82759A9EF2D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AAEFF06-67DE-4E39-824F-82759A9EF2D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAEFF06-67DE-4E39-824F-82759A9EF2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAEFF06-67DE-4E39-824F-82759A9EF2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAEFF06-67DE-4E39-824F-82759A9EF2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D486271-FDF2-43D5-8421-89BD6D7E665C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\bin\Debug\net6.0\Enumerations&Switch.exe
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\bin\Debug\net6.0\Enumerations&Switch.deps.json
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\bin\Debug\net6.0\Enumerations&Switch.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\bin\Debug\net6.0\Enumerations&Switch.dll
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\bin\Debug\net6.0\Enumerations&Switch.pdb
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.dll
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\refint\Enumerations&Switch.dll
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.pdb
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\Enumerations&Switch.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\Enumerations&Switch\Enumerations&Switch\obj\Debug\net6.0\ref\Enumerations&Switch.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations\\Enumerations\\Enumerations.csproj",
-      "projectName": "Enumerations",
-      "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations\\Enumerations\\Enumerations.csproj",
+      "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations&Switch\\Enumerations&Switch\\Enumerations&Switch.csproj",
+      "projectName": "Enumerations&Switch",
+      "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations&Switch\\Enumerations&Switch\\Enumerations&Switch.csproj",
       "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations\\Enumerations\\obj\\",
+      "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Enumerations&Switch\\Enumerations&Switch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
