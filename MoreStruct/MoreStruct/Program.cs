@@ -3,32 +3,8 @@
 
 namespace MoreStruct
 {
-
     class Program
-    {
-        MethodParameters.ChangeHeight(rectangle1);
-
-        interface IRectangle
-        {
-            int GetArea();
-        }
-        struct myRectangle : IRectangle 
-        {
-            double width;
-            double height;
-           
-            public myRectangle(double width, double height)
-            {
-                this.width = width;
-                this.height = height;
-            }
-                
-
-            public int GetArea()
-            {
-                return (int)(this.width * this.height);
-            }
-        }
+    { 
         static void Main(string[] args)
         {
             IRectangle rectangle = new myRectangle(10, 15);
@@ -37,9 +13,10 @@ namespace MoreStruct
 
             int area = rectangle.GetArea();
 
+            MethodParameters.ChangeHeight( rectangle1);
 
             Console.WriteLine($"The area of rectangle is: {area}");
-            Console.WriteLine($"The height of rectangle1 is: {} ");
+            Console.WriteLine($"The height of rectangle1 is: {rectangle1.Height} ");
 
             Console.ReadKey();
         }

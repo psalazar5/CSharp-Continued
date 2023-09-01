@@ -1,5 +1,4 @@
 ﻿
-
 var rectangle = new Rectangle(200,300);
 Console.WriteLine($"rectangle height: {rectangle.Height}");
 
