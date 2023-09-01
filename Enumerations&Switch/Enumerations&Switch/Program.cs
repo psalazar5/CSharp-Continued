@@ -1,6 +1,6 @@
 ﻿
-var temperature = new Temperature(TemperatureUnit.Test, 10);
-Console.WriteLine($"Temperature: {temperature.ValueInCelcius.ToString("10.0")}°C");
+var temperature = new Temperature(TemperatureUnit.Celcius, 10);
+Console.WriteLine($"Temperature: {temperature.ValueInCelcius.ToString("0.0")}°C");
 
 ////Underlying values are int 
 //Console.WriteLine((int)TemperatureUnit.Celcius);
@@ -16,7 +16,7 @@ enum TemperatureUnit
     Celcius,
     Fahrenheit,
     Kelvin, 
-    Test
+    
 }
 class Temperature
 {
@@ -33,6 +33,7 @@ class Temperature
         {
             return Unit switch
             {
+                TemperatureUnit.Celcius when Value > 100 => Math.Round(Value, 0),
                 TemperatureUnit.Celcius => Value,
                 TemperatureUnit.Fahrenheit => (Value - 32) * 5 / 9,
                 TemperatureUnit.Kelvin => Value - 273.15m,
