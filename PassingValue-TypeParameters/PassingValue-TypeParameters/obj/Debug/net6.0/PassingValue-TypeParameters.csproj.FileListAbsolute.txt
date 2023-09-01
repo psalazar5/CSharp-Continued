@@ -1,0 +1,15 @@
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\bin\Debug\net6.0\PassingValue-TypeParameters.exe
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\bin\Debug\net6.0\PassingValue-TypeParameters.deps.json
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\bin\Debug\net6.0\PassingValue-TypeParameters.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\bin\Debug\net6.0\PassingValue-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\bin\Debug\net6.0\PassingValue-TypeParameters.pdb
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\refint\PassingValue-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.pdb
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\PassingValue-TypeParameters.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\PassingValue-TypeParameters\PassingValue-TypeParameters\obj\Debug\net6.0\ref\PassingValue-TypeParameters.dll
