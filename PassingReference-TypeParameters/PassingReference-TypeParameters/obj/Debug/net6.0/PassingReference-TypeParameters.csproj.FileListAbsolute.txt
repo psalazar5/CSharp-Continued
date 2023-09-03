@@ -1,0 +1,15 @@
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\bin\Debug\net6.0\PassingReference-TypeParameters.exe
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\bin\Debug\net6.0\PassingReference-TypeParameters.deps.json
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\bin\Debug\net6.0\PassingReference-TypeParameters.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\bin\Debug\net6.0\PassingReference-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\bin\Debug\net6.0\PassingReference-TypeParameters.pdb
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\refint\PassingReference-TypeParameters.dll
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.pdb
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\PassingReference-TypeParameters.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\PassingReference-TypeParameters\PassingReference-TypeParameters\obj\Debug\net6.0\ref\PassingReference-TypeParameters.dll
