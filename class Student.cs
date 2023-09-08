@@ -47,7 +47,7 @@ Student student = new Student(startingGpa)
 
 string firstName = "Erik";
 string lastName = "Gross";
-Student student = new Student(firstName, lastName);
+Student student = new Student( firstName, lastName);
 
 //Accessing behavior in the class 
 
