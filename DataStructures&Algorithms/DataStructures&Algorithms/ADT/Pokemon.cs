@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DataStructures_Algorithms.ADT
 {
-    internal class Pokemon
+    public class Pokemon
     {
+        public string Name { get; set; } //representation
+        public int Exp { get; set; }
+        public bool isPokemon() //operation
+        {
+            return true;
+        }
     }
 }
