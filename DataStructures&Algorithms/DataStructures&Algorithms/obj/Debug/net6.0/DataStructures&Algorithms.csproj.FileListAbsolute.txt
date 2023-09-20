@@ -1,0 +1,15 @@
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\bin\Debug\net6.0\DataStructures&Algorithms.exe
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\bin\Debug\net6.0\DataStructures&Algorithms.deps.json
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\bin\Debug\net6.0\DataStructures&Algorithms.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\bin\Debug\net6.0\DataStructures&Algorithms.dll
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\bin\Debug\net6.0\DataStructures&Algorithms.pdb
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.dll
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\refint\DataStructures&Algorithms.dll
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.pdb
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\DataStructures&Algorithms.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\DataStructures&Algorithms\DataStructures&Algorithms\obj\Debug\net6.0\ref\DataStructures&Algorithms.dll
