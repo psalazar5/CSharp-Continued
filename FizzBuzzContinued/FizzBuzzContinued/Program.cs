@@ -42,6 +42,29 @@ namespace FizzBuzzContinued
             //}
 
 
+            //Solve the "divisible by both 5" part first 
+
+            //for (int i = 0; i < array.Length; i++)
+            //{
+            //    if (array[i] % 3 == 0 && array[i] % 5 == 0) //making sure to put these in order 
+            //    {
+            //        Console.WriteLine("FizzBuzz");
+            //    }
+            //    else if (array[i] % 3 == 0)
+            //    {
+            //        Console.WriteLine("Fizz");
+            //    }
+            //    else if (array[i] % 5 == 0)
+            //    {
+            //        Console.WriteLine("Buzz");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine(array[i]);
+            //    }
+
+            //}
+
             // Solve the divisible by "3" part first 
             //for(int i = 0; i < array.Length; i++)
             //{
@@ -73,7 +96,7 @@ namespace FizzBuzzContinued
             //    }
             //}
 
-            //Solve the "divisible by both 5" part first 
+            //Conclusion 
 
             for (int i = 0; i < array.Length; i++)
             {

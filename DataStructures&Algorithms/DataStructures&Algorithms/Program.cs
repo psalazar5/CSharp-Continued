@@ -13,34 +13,34 @@
 int[] newArray = new int[10];
 
 //Make a var to keep the length b/c .Length is based off capacity and does not track actual index.
-int length = 0;
+//int length = 0;
 
 //This adds data for us
-for (int i = 0; i < 9; i++)
-{
-    //1 is optional 
-    newArray[length] = i + 1;
-    length++;
-}
+//for (int i = 0; i < 10; i++)
+//{
+//    //1 is optional 
+//    newArray[length] = i + 1;
+//    length++;
+//}
 
-newArray[length] = 8;
-length++;
+//newArray[length] = 8;
+//length++;
 
 //Inserting at start of array
 
-//for(int i = 8; i >= 0; i--)
+//for (int i = 8; i >= 0; i--)
 //{
-//    //this moves over all values 
+//    //this moves over all values
 //    newArray[i + 1] = newArray[i];
 //}
 
-//newArray[0] = 20;
+//newArray[0] = 10;
 
 //int value = 0;
 
 //Inserting anywhere in array 
 
-//for (int i = 4; i >= 2; i--)
+//for (int i = 4; i >= 0; i--)
 //{
 //    //Shift each element one position to the right 
 //    newArray[i + 1] = newArray[i];
@@ -52,19 +52,26 @@ length++;
 
 //Deleting from end of array 
 
-//int[] newarray = new int [10];
+int[] newarray = new int[10];
 
-//int length = 0;
+int length = 0;
 
-//for(int i = 0; i < 6; i++)
+for (int i = 0; i < 10; i++)
+{
+    newarray[length] = i;
+    length++;
+}
+
+//length--;  
+
+//deletes from start of array 
+//for(int i = 1; i < length; i++)
 //{
-//    newarray[length] = i;
-//    length++;
+//    newarray[i-1] = newarray[i];
 //}
+//length--;
 
-//length--; 
-
-//for (int i = 0; i < length; i++)
-//{
-//    Console.WriteLine(newarray[i]);
-//}
+for (int i = 0; i < length; i++)
+{
+    Console.WriteLine(newarray[i]);
+}

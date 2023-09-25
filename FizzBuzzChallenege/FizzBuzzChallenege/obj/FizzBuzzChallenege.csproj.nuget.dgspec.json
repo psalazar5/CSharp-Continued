@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj": {}
+    "C:\\Users\\psala\\Software\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj": {
+    "C:\\Users\\psala\\Software\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj",
+        "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj",
         "projectName": "FizzBuzzChallenege",
-        "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj",
+        "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\FizzBuzzChallenege.csproj",
         "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\obj\\",
+        "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\FizzBuzzChallenege\\FizzBuzzChallenege\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
