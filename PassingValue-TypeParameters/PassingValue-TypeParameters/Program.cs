@@ -2,7 +2,7 @@
 var rectangle = new Rectangle(200,300);
 Console.WriteLine($"rectangle height: {rectangle.Height}");
 
-MethodParameters.ChangeHeight(ref rectangle);
+MethodParameters.ChangeHeight( ref rectangle);
 Console.WriteLine($"rectangle height: {rectangle.Height}");
 
 public struct Rectangle

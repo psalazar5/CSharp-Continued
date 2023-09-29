@@ -8,7 +8,7 @@ namespace PassingReference_TypeParameters
 {
     public class MethodParameters
     {
-        public static void ChangeName(ref Person person)
+        public static void ChangeName( Person person)
         {
             person.Name = "Unknown";
             person = new Person("Bob");

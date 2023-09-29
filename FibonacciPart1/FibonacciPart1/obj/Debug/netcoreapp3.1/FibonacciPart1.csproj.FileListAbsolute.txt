@@ -12,3 +12,17 @@ C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FibonacciPart1\Fibo
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.dll
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.pdb
 C:\Users\psala\OneDrive\Desktop\C#Continued\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.exe
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.deps.json
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.runtimeconfig.dev.json
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.dll
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\bin\Debug\netcoreapp3.1\FibonacciPart1.pdb
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.dll
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.pdb
+C:\Users\psala\Software\CSharp-Continued\FibonacciPart1\FibonacciPart1\obj\Debug\netcoreapp3.1\FibonacciPart1.genruntimeconfig.cache
