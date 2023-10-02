@@ -89,30 +89,22 @@
 
 
 
-
-
-
-
-
-
-
-
 //insert index 3 out of index 10(anywhere)
-int[] array = new int[10]; //created array 
-int Length = 0;
-for (int i = 0; i < 10; i++)
-{
-    array[Length] = i + 1;
-    Length++;
-}
+//int[] array = new int[10]; //created array 
+//int Length = 0;
+//for (int i = 0; i < 10; i++)
+//{
+//    array[Length] = i + 1;
+//    Length++;
+//}
 
-for (int i = 8; i >= 3; i--)
-{
-    array[i + 1] = array[i];
-}
+//for (int i = 8; i >= 3; i--)
+//{
+//    array[i + 1] = array[i];
+//}
 
-array[3] = 20;
-int value = 0;
+//array[3] = 20;
+//int value = 0;
 
 //for(int i = 0; i < 10; i++)
 //{
@@ -158,3 +150,20 @@ int value = 0;
 //    Console.WriteLine(Array[i]);
 //}
 
+//LinearSearch Array 
+
+//int[] Array = new int [] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+//bool LinearSearch(int[]Array, int key)
+//{
+//    for (int i = 0; i < Array.Length; i++)
+//    {
+//        if (Array[i] == key)
+//        {
+//            return true;
+//        }
+//    }
+//    return false;
+//}
+
+//Console.WriteLine(LinearSearch(Array,0));
