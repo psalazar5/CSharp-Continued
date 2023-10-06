@@ -167,3 +167,9 @@
 //}
 
 //Console.WriteLine(LinearSearch(Array,0));
+
+
+
+
+
+
