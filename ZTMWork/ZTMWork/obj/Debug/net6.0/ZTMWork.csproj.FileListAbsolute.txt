@@ -1,0 +1,15 @@
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\bin\Debug\net6.0\ZTMWork.exe
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\bin\Debug\net6.0\ZTMWork.deps.json
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\bin\Debug\net6.0\ZTMWork.runtimeconfig.json
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\bin\Debug\net6.0\ZTMWork.dll
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\bin\Debug\net6.0\ZTMWork.pdb
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.csproj.AssemblyReference.cache
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.AssemblyInfoInputs.cache
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.AssemblyInfo.cs
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.csproj.CoreCompileInputs.cache
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.dll
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\refint\ZTMWork.dll
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.pdb
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ZTMWork.genruntimeconfig.cache
+C:\Users\psala\Software\CSharp-Continued\ZTMWork\ZTMWork\obj\Debug\net6.0\ref\ZTMWork.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\ZTMConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\ZTMConsoleApp.csproj",
       "projectName": "ZTMConsoleApp",
-      "projectPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\ZTMConsoleApp.csproj",
+      "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\ZTMConsoleApp.csproj",
       "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\psala\\OneDrive\\Desktop\\C#Continued\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\ZTMConsoleApp\\ZTMConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
