@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\Generics.csproj": {}
+    "C:\\Users\\psala\\Software\\CSharp-Continued\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\Generics.csproj": {
+    "C:\\Users\\psala\\Software\\CSharp-Continued\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\Generics.csproj",
-        "projectName": "Generics",
-        "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\Generics.csproj",
+        "projectUniqueName": "C:\\Users\\psala\\Software\\CSharp-Continued\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes.csproj",
+        "projectName": "NullableValue&ReferenceTypes",
+        "projectPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes.csproj",
         "packagesPath": "C:\\Users\\psala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\obj\\",
+        "outputPath": "C:\\Users\\psala\\Software\\CSharp-Continued\\NullableValue&ReferenceTypes\\NullableValue&ReferenceTypes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

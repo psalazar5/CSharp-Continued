@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J0H0sBvm8N3MvkjKzddrj2WMlcdZRwxwiq5+gmYsr1hk169i3BKLSDKZhLtb9DAhTDy1wHqxw0QGjBac2QtyrQ==",
+  "dgSpecHash": "O6jXoZfeAtTjCHcSL47U5lmrqmKEq6yYhyEozpWYjifJlNQHrYYMwI7/G8Nii53H3zEQOoYRkqR3Q8AE0igOoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\psala\\Software\\StrictlyCSharpProjects-\\Generics\\Generics\\Generics.csproj",
+  "projectFilePath": "C:\\Users\\psala\\Software\\CSharp-Continued\\Generics\\Generics\\Generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
