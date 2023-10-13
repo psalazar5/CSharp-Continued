@@ -168,8 +168,33 @@
 
 //Console.WriteLine(LinearSearch(Array,0));
 
+//using DataStructures_Algorithms.Arrays;
+
+//LinearSearch linearSearch = new LinearSearch();
+//int key = 5;
+
+//bool found = linearSearch.Search(linearSearch.array, key);
 
 
+//Linked-List
 
+
+using DataStructures_Algorithms.LinkedList;
+
+Node nodeA = new Node();
+nodeA.Data = 123;
+
+Node nodeB = new Node();
+nodeB.Data = 234;
+
+Node nodeC = new Node();
+nodeC.Data = 344;
+
+Node nodeD = new Node();
+nodeD.Data = 386;
+
+nodeA.Next = nodeB; //almost like an objectified array 
+nodeB.Next = nodeC;
+nodeC.Next = nodeD;
 
 
