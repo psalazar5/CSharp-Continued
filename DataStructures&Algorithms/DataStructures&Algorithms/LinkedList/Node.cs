@@ -10,7 +10,7 @@ namespace DataStructures_Algorithms.LinkedList
     {
         public int Data { get; set; }
         public Node? Next { get; set; } //nullable reference type 
-        public void DisplayNode()
+        public void DisplayNode() //operation 
         {
             Console.WriteLine(Data);
         }

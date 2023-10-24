@@ -66,15 +66,34 @@
 //    length++;
 //}
 //length--;
-//deleting anywhere from array (delete index 3)
 
-//for(int i = 4; i < length; i++)
+
+
+//deleting anywhere from array (delete index 3)
+//int[] newArray = new int[6];
+//int length = 0;
+//for(int i = 0; i < 6;i++)
+//{
+//    newArray[i] = i;
+//    length++;
+//}
+//for(int i = 4; i < length; i++) // 1 up from 3 = 4 (wanting to remove index 3 )
 //{
 //    newarray[i - 1] = newarray[i];
 //}
 //length--;
 
+
+
 //deletes from start of array 
+//int[] deleteArray = new int[10];
+//int length = 0; 
+//for(int i = 0; i < 10; i++)
+//{
+//    deleteArray[length] = i + 1;
+//    length++;
+//}
+
 //for (int i = 1; i < length; i++)
 //{
 //    newarray[i - 1] = newarray[i];
@@ -106,6 +125,8 @@
 //array[3] = 20;
 //int value = 0;
 
+
+
 //for(int i = 0; i < 10; i++)
 //{
 //    Console.WriteLine(array[i]);
@@ -128,7 +149,8 @@
 //array[0] = 30;
 //int value = 0;
 
-//delete at index 3
+
+//delete at index 3 
 //int[] Array = new int[10];
 
 //int Length = 0; 
@@ -181,20 +203,32 @@
 
 using DataStructures_Algorithms.LinkedList;
 
-Node nodeA = new Node();
-nodeA.Data = 123;
+//Node nodeA = new Node();
+//nodeA.Data = 123;
 
-Node nodeB = new Node();
-nodeB.Data = 234;
+//Node nodeB = new Node();
+//nodeB.Data = 234;
 
-Node nodeC = new Node();
-nodeC.Data = 344;
+//Node nodeC = new Node();
+//nodeC.Data = 344;
 
-Node nodeD = new Node();
-nodeD.Data = 386;
+//Node nodeD = new Node();
+//nodeD.Data = 386;
 
-nodeA.Next = nodeB; //almost like an objectified array 
-nodeB.Next = nodeC;
-nodeC.Next = nodeD;
+//nodeA.Next = nodeB; //almost like an objectified array 
+//nodeB.Next = nodeC;
+//nodeC.Next = nodeD;
 
+LinkedList linkedList = new LinkedList();
+linkedList.InsertFirst(100);
+linkedList.InsertFirst(300);
+linkedList.InsertFirst(500);
+linkedList.InsertFirst(700);
 
+linkedList.DeleteFirst();
+linkedList.DeleteFirst();
+
+linkedList.InsertLast(546);
+linkedList.InsertLast(3562);
+
+linkedList.DisplayList(); 
