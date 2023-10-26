@@ -219,16 +219,16 @@ using DataStructures_Algorithms.LinkedList;
 //nodeB.Next = nodeC;
 //nodeC.Next = nodeD;
 
-LinkedList linkedList = new LinkedList();
-linkedList.InsertFirst(100);
-linkedList.InsertFirst(300);
-linkedList.InsertFirst(500);
-linkedList.InsertFirst(700);
+//LinkedList linkedList = new LinkedList();
+//linkedList.InsertFirst(100);
+//linkedList.InsertFirst(300);
+//linkedList.InsertFirst(500);
+//linkedList.InsertFirst(700);
 
-linkedList.DeleteFirst();
-linkedList.DeleteFirst();
+//linkedList.DeleteFirst();
+//linkedList.DeleteFirst();
 
-linkedList.InsertLast(546);
-linkedList.InsertLast(3562);
+//linkedList.InsertLast(546);
+//linkedList.InsertLast(3562);
 
-linkedList.DisplayList(); 
+//linkedList.DisplayList(); 
