@@ -201,7 +201,7 @@
 //Linked-List
 
 
-using DataStructures_Algorithms.LinkedList;
+//using DataStructures_Algorithms.LinkedList;
 
 //Node nodeA = new Node();
 //nodeA.Data = 123;
@@ -232,3 +232,23 @@ using DataStructures_Algorithms.LinkedList;
 //linkedList.InsertLast(3562);
 
 //linkedList.DisplayList(); 
+
+using DataStructures_Algorithms.Stack;
+Stack<string> stack = new Stack<string>(10);
+
+
+for (int i = 0; i < 3; i++)
+{
+ stack.Push("Squirtle");
+ stack.Push("Pikachu");
+ stack.Push("Charmander");
+}
+
+stack.Pop();
+stack.Peek();
+
+while (stack.Count > 0)
+{
+ var var = stack.Pop();
+ Console.WriteLine(var);
+}
